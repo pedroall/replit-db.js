@@ -1,0 +1,13 @@
+{
+  "name": "replit-db.js",
+  "version": "0.0.1-beta",
+  "description": "A minimalist Client for interacting with the replit Database.",
+  "main": "dist/replit-db.js",
+  "repository": "https://gitlab.com/cttpedroall/replit-db.js",
+  "author": "cttpedroall",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
